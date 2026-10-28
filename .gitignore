@@ -1,0 +1,10 @@
+*.exe
+*.out
+*.app
+*.o
+.DS_Store
+.vscode/
+.idea/
+*.swp
+.KP
+
